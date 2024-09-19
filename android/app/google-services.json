@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370667727955",
+    "project_id": "app-patinha-28eef",
+    "storage_bucket": "app-patinha-28eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370667727955:android:c424f206aae0dbcb5faaa6",
+        "android_client_info": {
+          "package_name": "br.edu.ifpr.app_patinha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVi5FAbSzIYs1FVrytVuhNcSWNFMfDFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
